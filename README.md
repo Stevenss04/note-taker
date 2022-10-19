@@ -6,4 +6,4 @@ This application allows the user to enter notes and as they save, they appear in
 
 ## Screenshot
 
-![ScreenShot](/assets/images/screenshot.png)
+![ScreenShot](/public/assets/images/webpage-screenshot.png)
